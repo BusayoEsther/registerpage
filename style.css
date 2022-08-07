@@ -38,5 +38,8 @@ label {
   font-size: larger;
 }
 @media (max-width: 740px) {
+  h1 { width:30%;
+  }
+    
   
 }
