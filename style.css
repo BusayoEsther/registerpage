@@ -1,0 +1,42 @@
+body {
+  font-family: 'Work Sans', sans-serif;
+}
+
+.main {
+  margin: auto;
+  width: 40%;
+  padding: 30px;
+  border:solid #ffce54;
+
+}
+h1 {
+  color: black;
+}
+h3 {
+  color: red;
+}
+.submit {
+  background-color: #ffce54;
+  border-color: #ffce54;
+}
+input,select {
+  padding: 20px;
+  margin: auto;
+  width: 80%;
+  border-top: transparent;
+  border-left: transparent;
+  border-right: transparent;
+ 
+ 
+}
+.info {
+  padding: 20px;
+}
+label {
+  color: black;
+  text-align: center;
+  font-size: larger;
+}
+@media (max-width: 1500px) {
+  
+}
