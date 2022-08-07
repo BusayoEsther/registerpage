@@ -37,7 +37,7 @@ label {
   text-align: center;
   font-size: larger;
 }
-@media (max-width: 740px) {
+@media (max-width: 1400px) {
   .main {
   margin: auto;
   width: 100%;
